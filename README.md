@@ -1,2 +1,2 @@
 # BPM-Monitoring
-Arduino ESP8266, Firebase, dan aplikasi Android
+Proyek ini menggunakan teknologi IoT untuk memantau detak jantung secara real-time dengan menggunakan Arduino ESP8266. Data yang diperoleh dari sensor detak jantung dikirim ke Firebase, sebuah platform penyimpanan cloud, dan kemudian ditampilkan pada aplikasi Android. Aplikasi ini memungkinkan pengguna untuk memantau kesehatan jantung mereka dengan mudah melalui perangkat mobile, memberikan akses cepat dan akurat terhadap informasi vital kesehatan mereka.
